@@ -1,0 +1,6 @@
+{
+  "name": "AI Audio Mastering Assistant",
+  "description": "An application that helps users master their audio tracks using Web Audio API for effects and AI-powered suggestions for adjustments. Users can upload audio, control EQ, compression, limiting, and master volume.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
